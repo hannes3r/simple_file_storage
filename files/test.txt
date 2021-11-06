@@ -1,0 +1,1 @@
+This should be accessible with {{url}}/files/test.txt
