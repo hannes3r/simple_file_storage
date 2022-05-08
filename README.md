@@ -3,8 +3,8 @@ This was created to provide an easy way to transfer files using http
 
 ## Install
 - Clone Repository
-- ```npm init```
-- ```node main.js```
+- ```npm install```
+- ```npm start```
 
 ## Configuration
 ### Port
